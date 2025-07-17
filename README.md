@@ -1,6 +1,6 @@
 # ✨ AleaTouch
 
-**AleaTouch** est une application Flutter simple et ludique qui permet de choisir aléatoirement une personne parmi un groupe en posant plusieurs doigts sur l’écran.
+**AleaTouch** est une application Android simple et ludique qui permet de choisir aléatoirement une personne parmi un groupe en posant plusieurs doigts sur l’écran.
 
 ![AleaTouch Splash](splash_screen_crop.PNG)
 
@@ -8,7 +8,7 @@
 
 ## 📱 Fonctionnement
 
-1. **Entrez un nombre de joueurs** (de 1 à 10)
+1. **Entrez un nombre de joueurs**
 2. Chaque joueur **pose un doigt sur l'écran**
 3. Une fois tous les doigts détectés, un **halo lumineux tourne** et s’arrête sur l’un d’eux
 4. 🎉 **Un seul doigt est sélectionné !** (avec animation, vibration et son)
@@ -28,30 +28,21 @@
 - ✨ Effet lumineux aléatoire
 - 🔊 Retour sonore et vibration
 - 🌈 Couleurs uniques par doigt
-- 🔄 Rejouer instantanément
 - 📲 Icône moderne et interface épurée
 
 ---
 
 ## 📦 Téléchargement
 
-📱 **APK Android** : [Dernière version ici](https://github.com/votre-compte/AleaTouch/releases)
+📱 **APK Android** : [Dernière version ici]([[https://github.com/votre-compte/AleaTouch/releases](https://github.com/plumedours/AleaTouch/blob/515cda7c4a71ab49af49a0ce65f2cbf750654e51/AleaTouch.apk)](https://github.com/plumedours/AleaTouch/blob/515cda7c4a71ab49af49a0ce65f2cbf750654e51/AleaTouch.apk))
 
 📂 Fichier `.apk` prêt à installer sur votre appareil.
 
 ---
 
-## 🔧 Tech
-
-- Flutter 3.x
-- Support Android 5+
-- Compatible tablette & téléphone
-
----
-
 ## 👤 Auteur
 
-Développé par **[VotreNom]**  
+Développé par **[Maxime Bory]**  
 💡 Une idée simple pour créer des décisions amusantes
 
 ---
