@@ -34,7 +34,7 @@
 
 ## 📦 Téléchargement
 
-📱 **APK Android** : [Dernière version ici]([[https://github.com/votre-compte/AleaTouch/releases](https://github.com/plumedours/AleaTouch/blob/515cda7c4a71ab49af49a0ce65f2cbf750654e51/AleaTouch.apk)](https://github.com/plumedours/AleaTouch/blob/515cda7c4a71ab49af49a0ce65f2cbf750654e51/AleaTouch.apk))
+📱 **APK Android** : [Dernière version ici](https://github.com/plumedours/AleaTouch/blob/515cda7c4a71ab49af49a0ce65f2cbf750654e51/AleaTouch.apk)
 
 📂 Fichier `.apk` prêt à installer sur votre appareil.
 
