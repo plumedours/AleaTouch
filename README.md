@@ -2,7 +2,7 @@
 
 **AleaTouch** est une application Flutter simple et ludique qui permet de choisir aléatoirement une personne parmi un groupe en posant plusieurs doigts sur l’écran.
 
-![AleaTouch Splash](assets/aleatouch_splash.png)
+![AleaTouch Splash](splash_screen_crop.png)
 
 ---
 
