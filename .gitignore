@@ -1,0 +1,26 @@
+# Fichiers temporaires et caches
+**/.DS_Store
+*.tmp
+*.log
+
+# Sorties de build
+build/
+**/build/
+.dart_tool/
+*.apk
+*.aab
+*.so
+*.dill
+
+# Éditeurs
+.idea/
+.vscode/
+*.iml
+
+# Flutter spécifiques
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+.pub-cache/
+.melosearch/  # <-- si tu utilises Melos
